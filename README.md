@@ -13,7 +13,7 @@ While existing Gaussian-based representations achieve impressive rendering quali
 
 
 <p align="center">
-<img src="assets/teaser.png" width="95%">
+<img src="assets/pipeline6.png" width="95%">
 </p>
 
 
@@ -37,7 +37,7 @@ PIC-MGS achieves superior rendering quality on synthetic and real-world benchmar
 
 
 <p align="center">
-<img src="assets/static_rendering.png" width="95%">
+<img src="assets/StaticRendering.png" width="95%">
 </p>
 
 
@@ -47,7 +47,7 @@ PIC-MGS enables flexible object editing while preserving appearance details afte
 
 
 <p align="center">
-<img src="assets/manipulation.png" width="95%">
+<img src="assets/Manipulation.png" width="95%">
 </p>
 
 
