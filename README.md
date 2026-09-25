@@ -1,5 +1,9 @@
 # PIC-MGS: Perception Over Geometry for Mesh Gaussian Splatting
 
+<p align="center">
+<img src="leopard_animation_100.gif" width="85%">
+</p>
+
 Official implementation of:
 
 **Perception Over Geometry: Rethinking Gaussian Allocation and Optimization in Mesh-based Splatting**
