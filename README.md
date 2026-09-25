@@ -4,6 +4,8 @@ Official implementation of:
 
 **Perception Over Geometry: Rethinking Gaussian Allocation and Optimization in Mesh-based Splatting**
 
+[Paper](#) | [Project Page](#) | [Video](#) 
+
 
 ## Overview
 
