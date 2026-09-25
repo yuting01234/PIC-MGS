@@ -1,7 +1,8 @@
 # PIC-MGS: Perception Over Geometry for Mesh Gaussian Splatting
 
 <p align="center">
-<img src="assets/leopard_animation_100.gif" width="55%">
+  <img src="assets/butterflyanimation.gif" width="45%" style="vertical-align: middle;">
+  <img src="assets/leopard_animation_100.gif" width="45%" style="vertical-align: middle;">
 </p>
 
 Official implementation of:
